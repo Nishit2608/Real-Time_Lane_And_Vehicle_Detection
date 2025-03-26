@@ -1,0 +1,19 @@
+# Ignore dataset and video files
+data/
+
+# Ignore model checkpoints
+*.pth
+*.pt
+*.zip
+
+
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore IDE and editor settings
+.vscode/
+
+# Ignore streamlit temp files
+*.temp

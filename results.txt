@@ -1,0 +1,7 @@
+These metrics were computed on the BDD100K validation set after training the UNet model for 20 epochs. The relatively low IoU and 
+F1 indicate the challenge of detecting narrow lane markings, while the high accuracy and low loss show overall pixel-wise prediction was strong.
+
+Validation Loss: 0.0511
+Validation Accuracy: 0.9819
+Validation F1 Score: 0.4319
+Validation Jaccard Score (IoU): 0.2767
