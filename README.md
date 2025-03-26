@@ -92,7 +92,7 @@ Jaccard Index (IoU)  : 0.2767
 
 ### 🔹 Alternate Detection View (GIF)
 
-<img src="outputs/output_nD_15.gif" width="600"/>
+<img src="outputs/Output_nD_15.gif" width="600"/>
 
 ### 🧠 Inference Output (UNet)
 
