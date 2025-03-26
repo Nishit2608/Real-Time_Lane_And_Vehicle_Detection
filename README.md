@@ -117,6 +117,9 @@ pip install -r requirements.txt
 # 3. Run inference
 python scripts/yolo_integrated.py
 
+# 4. To launch the Streamlit dashboard
+streamlit run scripts/lane_streamlit.py
+
 
 ---
 
