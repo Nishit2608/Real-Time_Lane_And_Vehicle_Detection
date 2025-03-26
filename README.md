@@ -51,6 +51,7 @@ A real-time lane and vehicle detection system using UNet for semantic segmentati
 
 ## 📁 Folder Structure
 
+```bash
 ├── data/
 │   └── bdd100k/ (dataset)
 ├── model/
@@ -72,7 +73,7 @@ A real-time lane and vehicle detection system using UNet for semantic segmentati
 ├── README.md
 ├── results.txt
 └── yolov8n.pt
-
+```
 --- 
 
 ## 📊 Results
