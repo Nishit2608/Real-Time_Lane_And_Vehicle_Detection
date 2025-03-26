@@ -1,7 +1,3 @@
-
-# Real-Time_Lane_-_Vehicle_Detection_using_UNet_and_YOLOv8
-A real-time lane and vehicle detection system using UNet for semantic segmentation and YOLOv8 for object detection.
-
 # 🚗 Real-Time Lane & Vehicle Detection using UNet and YOLOv8
 A real-time lane and vehicle detection system using UNet for semantic segmentation and YOLOv8 for object detection.
 - 🧠 Semantic Segmentation (UNet)
@@ -66,9 +62,14 @@ Jaccard Index (IoU)  : 0.2767
 ## 🚗 Outputs
 
 ### Lane + YOLO Detection (Image)
+<<<<<<< HEAD
 ![Inference_output_2](https://raw.githubusercontent.com/Nishit2608/Real-Time_Lane_and_Vehicle_Detection_using_UNet_and_YOLOv8/main/outputs/Inference_output_2.png)
 
 <img src=">
+=======
+
+<img src="outputs/output_input3_with_yolo_light.gif" width="600"/>
+>>>>>>> 9a5c13d (Updated output files after refactor)
 
 ### Inference Output
 
